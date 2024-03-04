@@ -1,2 +1,2 @@
 # UnsupervisedFinalChess
-Data not included due to size.  Thanks!
+Data included due to small size.  Thanks!
